@@ -6,7 +6,7 @@ Este projeto serve como **base de comunicação** para sistemas mais complexos, 
 
 ---
 
-## 🚀 Visão Geral
+## Visão Geral
 
 - Comunicação via LoRa (SX1262) entre dois dispositivos.
 - Configuração otimizada de parâmetros LoRa (SF, CR, potência).
@@ -15,13 +15,13 @@ Este projeto serve como **base de comunicação** para sistemas mais complexos, 
 
 ---
 
-## 🛠️ Hardware Utilizado
+## Hardware Utilizado
 
 - 2x **Heltec ESP32 LoRa V3** (WiFi + Bluetooth + OLED + LoRa SX1262 integrados)
 
 ---
 
-## 📦 Bibliotecas Utilizadas
+## Bibliotecas Utilizadas
 
 ### Transmissor (`sender_V3.ino`)
 - [`jgromes/RadioLib`](https://github.com/jgromes/RadioLib)
@@ -33,7 +33,7 @@ Este projeto serve como **base de comunicação** para sistemas mais complexos, 
 
 ---
 
-## 🔌 Mapeamento de Pinos (Heltec LoRa V3)
+## Mapeamento de Pinos (Heltec LoRa V3)
 
 | Função        | Pino GPIO |
 |---------------|-----------|
